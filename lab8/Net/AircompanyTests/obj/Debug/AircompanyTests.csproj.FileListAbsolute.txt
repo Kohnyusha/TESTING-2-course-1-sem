@@ -1,0 +1,55 @@
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\AircompanyTests.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\AircompanyTests.pdb
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Aircompany.exe
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\nunit.framework.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Aircompany.pdb
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Aircompany.exe.config
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\nunit.framework.pdb
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\nunit.framework.xml
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.AssemblyReference.cache
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CoreCompileInputs.cache
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CopyComplete
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.pdb
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\log4net.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\log4net.xml
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Microsoft.SCPNet.dll.config
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPHost.exe
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPLogger.Log4net.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPLogger.Log4net.EtwAppender.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPLogger.Log4net.EtwAppender.dll.config
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPLogger_ReadMe.txt
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPPerfCounter.AzureCounter.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\SCPPerfCounter.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\ZooKeeperNet.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\nunit.engine.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\nunit.engine.api.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\nunit.engine.core.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\testcentric.engine.metadata.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\3\Тестирование\lab8 Clean Code\aircompany\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.SuggestedBindingRedirects.cache
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\nunit.engine.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\nunit.engine.api.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\nunit.engine.core.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\testcentric.engine.metadata.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\AircompanyTests.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\AircompanyTests.pdb
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\Aircompany.exe
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\nunit.framework.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\Aircompany.pdb
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\Aircompany.exe.config
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\nunit.framework.pdb
+D:\3\Тестирование\lab8\Net\AircompanyTests\bin\Debug\nunit.framework.xml
+D:\3\Тестирование\lab8\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.AssemblyReference.cache
+D:\3\Тестирование\lab8\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.SuggestedBindingRedirects.cache
+D:\3\Тестирование\lab8\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CoreCompileInputs.cache
+D:\3\Тестирование\lab8\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CopyComplete
+D:\3\Тестирование\lab8\Net\AircompanyTests\obj\Debug\AircompanyTests.dll
+D:\3\Тестирование\lab8\Net\AircompanyTests\obj\Debug\AircompanyTests.pdb
